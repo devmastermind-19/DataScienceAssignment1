@@ -1,0 +1,17 @@
+dask
+pyarrow 
+duckdb 
+pandas 
+numpy 
+streamlit 
+folium 
+geopandas 
+shapely 
+matplotlib 
+seaborn 
+requests 
+scikit-learn 
+fpdf 
+openmeteo-requests 
+requests-cache 
+retry_requests
